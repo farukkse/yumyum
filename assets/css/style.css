@@ -13,6 +13,7 @@ body {
   margin: 0 auto;
 }
 .header {
+  width: 1110px;
   font-size: 24px;
   margin: 0 auto; /*soldaki aşagi-yukari sagdaki sag-sol*/
   color: #3f3b3b;
